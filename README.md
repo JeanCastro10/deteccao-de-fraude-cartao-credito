@@ -38,5 +38,4 @@ O projeto foi construído seguindo uma linha lógica e organizada de desenvolvim
 * **Random Forest & XGBoost:** Os modelos baseados em conjuntos de árvores (Ensembles) demonstraram maior robustez para lidar com o desbalanceamento inerente do dataset financeiro.
 * **Importância das Variáveis (SHAP):** A análise de explicabilidade revelou de forma transparente quais componentes principais anonimizados (V1 a V28) e transformados tiveram o maior impacto preditivo no modelo final.
 
-   ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+  
